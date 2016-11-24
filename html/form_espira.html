@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Ajout d'un relevé -> Espira</title>
+  </head>
+
+  <body>
+    <h3>Ajout Relevé pour la station d'Espira</h3>
+    <form id="form_espira">
+      <!-- Données Stations -->
+      <label for="compteur">Compteur G1</label>
+      <input type="text" name="compteur" id="compteur" />
+      <label for="volume">Compteur Volume</label>
+      <input type="text" name="volume" id="volume" />
+
+      <!-- Relevés Energétiques -->
+      <!-- Actif -->
+      <fieldset>
+        <legend>Actif</legend>
+        <label for="p_actif">P Actif</label>
+        <input type="text" name="p_actif" id="p_actif" /><br />
+        <label for="hph_actif">HPH Actif</label>
+        <input type="text" name="hph_actif" id="hph_actif" /><br />
+        <label for="hch_actif">HCH Actif</label>
+        <input type="text" name="hch_actif" id="hch_actif" /><br />
+        <label for="hpe_actif">HPE Actif</label>
+        <input type="text" name="hpe_actif" id="hpe_actif" /><br />
+        <label for="hce_actif">HCE Actif</label>
+        <input type="text" name="hce_actif" id="hce_actif" /><br />
+      </fieldset>
+
+      <!-- Réactif -->
+      <fieldset>
+        <legend>Réactif</legend>
+        <label for="p_reactif">P Reactif</label>
+        <input type="text" name="p_reactif" id="p_reactif" /><br />
+        <label for="hph_reactif">HPH Reactif</label>
+        <input type="text" name="hph_reactif" id="hph_reactif" /><br />
+        <label for="hch_reactif">HCH Reactif</label>
+        <input type="text" name="hch_reactif" id="hch_reactif" /><br />
+        <label for="hpe_reactif">HPE Reactif</label>
+        <input type="text" name="hpe_reactif" id="hpe_reactif" /><br />
+        <label for="hce_reactif">HCE Reactif</label>
+        <input type="text" name="hce_reactif" id="hce_reactif" /><br />
+      </fieldset>
+
+      <!-- P maxi -->
+      <fieldset>
+        <legend>Pmaxi</legend>
+        <label for="p_pmaxi">P Pmaxi</label>
+        <input type="text" name="p_pmaxi" id="p_pmaxi" /><br />
+        <label for="hph_pmaxi">HPH Pmaxi</label>
+        <input type="text" name="hph_pmaxi" id="hph_pmaxi" /><br />
+        <label for="hch_pmaxi">HCH Pmaxi</label>
+        <input type="text" name="hch_pmaxi" id="hch_pmaxi" /><br />
+        <label for="hpe_pmaxi">HPE Pmaxi</label>
+        <input type="text" name="hpe_pmaxi" id="hpe_pmaxi" /><br />
+        <label for="hce_pmaxi">HCE Pmaxi</label>
+        <input type="text" name="hce_pmaxi" id="hce_pmaxi" /><br />
+      </fieldset>
+
+      <!-- Durée -->
+      <fieldset>
+        <legend>Durée</legend>
+        <label for="p_duree">P Durée</label>
+        <input type="text" name="p_duree" id="p_duree" /><br />
+        <label for="hph_duree">HPH Durée</label>
+        <input type="text" name="hph_duree" id="hph_duree" /><br />
+        <label for="hch_duree">HCH Durée</label>
+        <input type="text" name="hch_duree" id="hch_duree" /><br />
+        <label for="hpe_duree">HPE Durée</label>
+        <input type="text" name="hpe_duree" id="hpe_duree" /><br />
+        <label for="hce_duree">HCE Durée</label>
+        <input type="text" name="hce_duree" id="hce_duree" /><br />
+      </fieldset>
+
+      <!-- Depassement -->
+      <fieldset>
+        <legend>Dépassement</legend>
+        <label for="p_depassement">P Depassement</label>
+        <input type="text" name="p_depassement" id="p_depassement" /><br />
+        <label for="hph_depassement">HPH Depassement</label>
+        <input type="text" name="hph_depassement" id="hph_depassement" /><br />
+        <label for="hch_depassement">HCH Depassement</label>
+        <input type="text" name="hch_depassement" id="hch_depassement" /><br />
+        <label for="hpe_depassement">HPE Depassement</label>
+        <input type="text" name="hpe_depassement" id="hpe_depassement" /><br />
+        <label for="hce_depassement">HCE Depassement</label>
+        <input type="text" name="hce_depassement" id="hce_depassement" /><br />
+      </fieldset>
+    </form>
+
+    <script="../js/ajax.js"></script>
+    <script="../js/form_espira.js"></script>
+  </body>
+</Html>
