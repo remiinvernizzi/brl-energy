@@ -2,17 +2,17 @@
   {
     "label" : "Mois",
     "name" : "mois",
-    "div" : "donnes"
+    "div" : "donnees"
   },
   {
     "label" : "Compteur Groupe",
     "name" : "compteur",
-    "div" : "donnes"
+    "div" : "donnees"
   },
   {
     "label" : "Compteur Volume",
     "name" : "volume",
-    "div" : "donnes"
+    "div" : "donnees"
   },
   {
     "label" : "P Actif",

@@ -1,6 +1,6 @@
-/*******************************************************/
-/* Fichier de gestion de la station d'Espira de l'Agly */
-/*******************************************************/
+/********************************************************
+** Fichier de gestion de la station d'Espira de l'Agly **
+********************************************************/
 
 //Classe de la station Espira
 var Espira = {
