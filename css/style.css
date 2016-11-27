@@ -1,0 +1,9 @@
+/* Balise HTML */
+
+/* Identificateur */
+#selecteur, #gestion, #affichage
+{
+  border : 1px solid black;
+}
+
+/* Classe */
