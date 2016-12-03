@@ -2,7 +2,7 @@
   {
     "label" : "Mois",
     "name" : "mois",
-    "div" : "donnees"
+    "div" : "date"
   },
   {
     "label" : "Compteur Groupe",
@@ -15,127 +15,127 @@
     "div" : "donnees"
   },
   {
-    "label" : "P Actif",
+    "label" : "P",
     "name" : "p_actif",
     "div" : "energie"
   },
   {
-    "label" : "HPH Actif",
+    "label" : "HPH",
     "name" : "hph_actif",
     "div" : "energie"
   },
   {
-    "label" : "HCH Actif",
+    "label" : "HCH",
     "name" : "hch_actif",
     "div" : "energie"
   },
   {
-    "label" : "HPE Actif",
+    "label" : "HPE",
     "name" : "hpe_actif",
     "div" : "energie"
   },
   {
-    "label" : "HCE Actif",
+    "label" : "HCE",
     "name" : "hce_actif",
     "div" : "energie"
   },
   {
-    "label" : "P Reactif",
+    "label" : "P",
     "name" : "p_reactif",
     "div" : "energie"
   },
   {
-    "label" : "HPH Reactif",
+    "label" : "HPH",
     "name" : "hph_reactif",
     "div" : "energie"
   },
   {
-    "label" : "HCH Reactif",
+    "label" : "HCH",
     "name" : "hch_reactif",
     "div" : "energie"
   },
   {
-    "label" : "HPE Reactif",
+    "label" : "HPE",
     "name" : "hpe_reactif",
     "div" : "energie"
   },
   {
-    "label" : "HCE Reactif",
+    "label" : "HCE",
     "name" : "hce_reactif",
     "div" : "energie"
   },
   {
-    "label" : "P Pmaxi",
+    "label" : "P",
     "name" : "p_pmaxi",
     "div" : "energie"
   },
   {
-    "label" : "HPH Pmaxi",
+    "label" : "HPH",
     "name" : "hph_pmaxi",
     "div" : "energie"
   },
   {
-    "label" : "HCH Pmaxi",
+    "label" : "HCH",
     "name" : "hch_pmaxi",
     "div" : "energie"
   },
   {
-    "label" : "HPE Pmaxi",
+    "label" : "HPE",
     "name" : "hpe_pmaxi",
     "div" : "energie"
   },
   {
-    "label" : "HCE Pmaxi",
+    "label" : "HCE",
     "name" : "hce_pmaxi",
     "div" : "energie"
   },
   {
-    "label" : "P Durée",
+    "label" : "P",
     "name" : "p_duree",
     "div" : "energie"
   },
   {
-    "label" : "HPH Durée",
+    "label" : "HPH",
     "name" : "hph_duree",
     "div" : "energie"
   },
   {
-    "label" : "HCH Durée",
+    "label" : "HCH",
     "name" : "hch_duree",
     "div" : "energie"
   },
   {
-    "label" : "HPE Durée",
+    "label" : "HPE",
     "name" : "hpe_duree",
     "div" : "energie"
   },
   {
-    "label" : "HCE Durée",
+    "label" : "HCE",
     "name" : "hce_duree",
     "div" : "energie"
   },
   {
-    "label" : "P Depassement",
+    "label" : "P",
     "name" : "p_depassement",
     "div" : "energie"
   },
   {
-    "label" : "HPH Depassement",
+    "label" : "HPH",
     "name" : "hph_depassement",
     "div" : "energie"
   },
   {
-    "label" : "HCH Depassement",
+    "label" : "HCH",
     "name" : "hch_depassement",
     "div" : "energie"
   },
   {
-    "label" : "HPE Depassement",
+    "label" : "HPE",
     "name" : "hpe_depassement",
     "div" : "energie"
   },
   {
-    "label" : "HCE Depassement",
+    "label" : "HCE",
     "name" : "hce_depassement",
     "div" : "energie"
   }
